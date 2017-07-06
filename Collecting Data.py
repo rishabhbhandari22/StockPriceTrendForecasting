@@ -9,7 +9,7 @@ from matplotlib import style
 style.use("dark_background")
 import re
 #regular expression
-path= "F:/Internship Projects/Stocks/intraQuarter"
+path= "F:/Projects/Stocks/intraQuarter"
 
 def Key_Stats(gather=["Total Debt/Equity",
                       'Trailing P/E',
